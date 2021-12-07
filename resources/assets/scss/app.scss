@@ -1,3 +1,15 @@
+@import 'settings/all-settings';
+@import 'settings/defaults';
+
+@import 'functions/em-rem';
+@import 'functions/strip-units';
+@import 'functions/toRGB';
+@import 'functions/vw-vh';
+
+@import 'mixins/media';
+@import 'mixins/preloader';
+@import 'mixins/visuallyhidden';
+
 
 
 // сбор всех сторонних стилей: normalize, плагины и всяко прочее из node_modules
@@ -28,3 +40,5 @@
 @import 'show-more';
 
 @import 'fonts';
+
+
