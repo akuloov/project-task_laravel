@@ -1,0 +1,30 @@
+
+
+// сбор всех сторонних стилей: normalize, плагины и всяко прочее из node_modules
+// -------------------------------------------------
+@import '~normalize.css/normalize.css';
+
+
+// сбор всех основных блоков для текущего проекта
+// -------------------------------------------------
+@import 'html';
+@import 'container';
+@import 'layout';
+@import 'header';
+@import 'main';
+@import 'footer';
+@import 'mobile-menu';
+@import 'blog';
+@import 'search-friend';
+@import 'ads';
+@import 'orange-button';
+@import 'white-button';
+@import 'useful';
+@import 'article';
+@import 'date';
+@import 'action';
+@import 'tab';
+@import 'about-us';
+@import 'show-more';
+
+@import 'fonts';
