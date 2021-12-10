@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="shortcut icon" type="image/x-icon" href="wezom.ico">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="../../public/assets/css/app.css">
 </head>
 
 <body>

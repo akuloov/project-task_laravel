@@ -58,10 +58,11 @@ mix
                         svgo: {
                             plugins : [
                                 {
-                                    'removeStyleElement': false // Удаляем из svg теги <style>
+                                    'name': 'removeStyleElement', // Удаляем из svg теги <style>
                                 },
                                 {
-                                    'removeAttrs': {
+                                    'name': 'removeAttrs',
+                                    'params': {
                                         attrs: ["fill", "stroke"] // Удаляем часть атрибутов для управления стилями из CSS
                                     }
                                 },
@@ -86,16 +87,6 @@ mix
                             ignore: ["**/icons/**"], // Игнорируем каталог с иконками
                         },
                     },
-                ],
-            }),
-            // Оптимизируем качество изображений
-            new ImageminPlugin({
-                test: /\.(jpe?g|png|gif)$/i,
-                plugins: [
-                    imageminMozjpeg({
-                        quality: 80,
-                        progressive: true,
-                    }),
                 ],
             }),
         ],

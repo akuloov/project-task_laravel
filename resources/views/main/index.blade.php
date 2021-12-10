@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="shortcut icon" type="image/x-icon" href="wezom.ico">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="assets/css/app.css">
 </head>
 
 <body>
@@ -123,7 +123,7 @@
                                             <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
                                         </a>
                                         <span class="description-stars">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
                                             <img class="description-star__item" src="image/star_orange.png" alt="">
                                             <img class="description-star__item" src="image/star_orange.png" alt="">
                                             <img class="description-star__item" src="image/star_orange.png" alt="">
@@ -695,7 +695,7 @@
     <script type="text/javascript" src="js/lozad.min.js"></script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="js/script.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

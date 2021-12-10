@@ -1,44 +1,31 @@
 @import 'settings/all-settings';
-@import 'settings/defaults';
-
-@import 'functions/em-rem';
-@import 'functions/strip-units';
-@import 'functions/toRGB';
-@import 'functions/vw-vh';
-
-@import 'mixins/media';
-@import 'mixins/preloader';
-@import 'mixins/visuallyhidden';
-
-
 
 // сбор всех сторонних стилей: normalize, плагины и всяко прочее из node_modules
 // -------------------------------------------------
-@import '~normalize.css/normalize.css';
+
 
 
 // сбор всех основных блоков для текущего проекта
 // -------------------------------------------------
-@import 'html';
-@import 'container';
-@import 'layout';
-@import 'header';
-@import 'main';
-@import 'footer';
-@import 'mobile-menu';
-@import 'blog';
-@import 'search-friend';
-@import 'ads';
-@import 'orange-button';
-@import 'white-button';
-@import 'useful';
-@import 'article';
-@import 'date';
-@import 'action';
-@import 'tab';
-@import 'about-us';
-@import 'show-more';
+@import 'blocks/normalize';
+@import 'blocks/html';
+@import 'blocks/container';
+@import 'blocks/layout';
+@import 'blocks/header';
+@import 'blocks/main';
+@import 'blocks/footer';
+@import 'blocks/mobile-menu';
+@import 'blocks/blog';
+@import 'blocks/search-friend';
+@import 'blocks/ads';
+@import 'blocks/orange-button';
+@import 'blocks/white-button';
+@import 'blocks/useful';
+@import 'blocks/article';
+@import 'blocks/date';
+@import 'blocks/action';
+@import 'blocks/tab';
+@import 'blocks/about-us';
+@import 'blocks/show-more';
 
-@import 'fonts';
-
-
+@import 'blocks/fonts';
