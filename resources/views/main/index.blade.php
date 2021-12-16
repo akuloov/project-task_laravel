@@ -17,7 +17,7 @@
                 <div class="mobile-header">
                     <a href="" class="mobile-link">
                         <svg class="mobile-logo">
-                            <use href=sprite.svg#wezom_logo></use>
+                            <use href="assets/images/icons.svg#icon-wezom_logo"></use>
                         </svg>
                     </a>
                     <div class="header__burger">
@@ -29,7 +29,7 @@
                         <div class="header-top__left-block left-block-top">
                             <div class="header__geolocation geolocation">
                                 <svg class="geolocation__image">
-                                    <use href="sprite.svg#geo"></use>
+                                    <use href="assets/images/icons.svg#icon-geo"></use>
                                 </svg>
                                 <a class="geolocation__city" href="">Херсон</a>
                             </div>
@@ -55,7 +55,7 @@
                             <a href="" class="header__link">
                                 <picture>
                                     <svg class="header__logo logo">
-                                        <use href=sprite.svg#wezom_logo></use>
+                                        <use href="assets/images/icons.svg#icon-wezom_logo"></use>
                                     </svg>
                                 </picture>
                             </a>
@@ -70,24 +70,24 @@
                         <div class="header-bottom__right-block-bottom right-block-bottom">
                             <button class="header__button-search button-search">
                                 <svg class="button-search__image">
-                                    <use href=sprite.svg#search></use>
+                                    <use href="assets/images/icons.svg#icon-search"></use>
                                 </svg>
                                 Поиск
                             </button>
                             <div class="header__usage usage">
                                 <a href="" class="usage__item">
                                     <svg class="usage__img">
-                                        <use href=sprite.svg#human></use>
+                                        <use href=assets/images/icons.svg#icon-human></use>
                                     </svg>
                                 </a>
                                 <a href="" class="usage__item">
                                     <svg class="usage__img">
-                                        <use href=sprite.svg#like></use>
+                                        <use href=assets/images/icons.svg#icon-like></use>
                                     </svg>
                                 </a>
                                 <a href="" class="usage__item usage__img_counter">
                                     <svg class="usage__img">
-                                        <use href=sprite.svg#basket></use>
+                                        <use href=assets/images/icons.svg#icon-basket></use>
                                     </svg>
                                     <div class="usage__counter">0</div>
                                 </a>
@@ -124,22 +124,22 @@
                                         </a>
                                         <span class="description-stars">
                                             <img class="description-star__item" src="assets/images/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
                                             <span class="description-star__integer">(12)</span>
                                         </span>
                                         <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
                                         </div>
                                         <div class="description__first-price">
                                             <div class="first-price__img">
-                                                <img src="image/Vector.png" alt="">
+                                                <img src="assets/images/Vector.png" alt="">
                                             </div>
                                             <span class="description__first-price_text">от 198,22 &#8372;</span>
                                         </div>
                                         <button class="buy">
-                                            <img class="buy__img" src="image/basket.png" alt="">
+                                            <img class="buy__img" src="assets/images/basket.png" alt="">
                                         </button>
                                     </div>
                                 </div>
@@ -157,23 +157,23 @@
                                             <h1 class="description__title">Brit Premium (Брит Премиум) by Nature ADULT L - Сухой корм с курицей, 4 кг</h1>
                                         </a>
                                         <span class="description-stars">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
                                             <span class="description-star__integer">(0)</span>
                                         </span>
                                         <div class="description__second-price"><span class="description__price_before2">1 700,22</span> <span class="description__second-price_bold">1 600,22 &#8372;</span>
                                         </div>
                                         <div class="description__first-price">
                                             <div class="first-price__img">
-                                                <img src="image/Vector.png" alt="">
+                                                <img src="assets/images/Vector.png" alt="">
                                             </div>
                                             <span class="description__first-price_text">1 550,22 &#8372;</span>
                                         </div>
                                         <button class="buy">
-                                            <img class="buy__img" src="image/basket.png" alt="">
+                                            <img class="buy__img" src="assets/images/basket.png" alt="">
                                         </button>
                                     </div>
                                 </div>
@@ -190,23 +190,23 @@
                                             <h1 class="description__title">PetKind Beef Tripe Formula Беззерновые консервы для собак с говядиной, 500 мл</h1>
                                         </a>
                                         <span class="description-stars">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
-                                            <img class="description-star__item" src="image/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
                                             <span class="description-star__integer">(65)</span>
                                         </span>
                                         <div class="description__second-price"><span class="description__second-price_bold">1 600,22 &#8372;</span>
                                         </div>
                                         <div class="description__first-price">
                                             <div class="first-price__img">
-                                                <img src="image/Vector.png" alt="">
+                                                <img src="assets/images/Vector.png" alt="">
                                             </div>
                                             <span class="description__first-price_text">1 550,22 &#8372;</span>
                                         </div>
                                         <button class="buy">
-                                            <img class="buy__img" src="image/basket.png" alt="">
+                                            <img class="buy__img" src="assets/images/basket.png" alt="">
                                         </button>
                                     </div>
                                 </div>
@@ -224,18 +224,18 @@
                                             <h1 class="description__title">Scalibor (Скалибор) ошейник 48 см</h1>
                                         </a>
                                         <span class="description-stars">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
                                             <span class="description-star__integer">(0)</span>
                                         </span>
                                         <div class="description__second-price"><span class="description__price_before4">640,22</span> <span class="description__second-price_bold">560,22 &#8372;</span>
                                         </div>
                                         <div class="description__first-price">
                                             <div class="first-price__img">
-                                                <img src="image/Vector.png" alt="">
+                                                <img src="assets/images/Vector.png" alt="">
                                             </div>
                                             <span class="description__first-price_text">520,00 &#8372;</span>
                                         </div>
@@ -258,18 +258,18 @@
                                             <h1 class="description__title">1st Choice Puppy Toy&Small Lamb&Fish сухой супер премиум корм для щенков мини и малых пород, 2 кг</h1>
                                         </a>
                                         <span class="description-stars">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
-                                            <img class="description-star__item" src="image/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
                                             <span class="description-star__integer">(0)</span>
                                         </span>
                                         <div class="description__second-price"><span class="description__second-price_bold">1 600,22 &#8372;</span>
                                         </div>
                                         <div class="description__first-price">
                                             <div class="first-price__img">
-                                                <img class="lozad" data-src="image/Vector.png" alt="">
+                                                <img src="assets/images/Vector.png" alt="">
                                             </div>
                                             <span class="description__first-price_text">1 550,22 &#8372;</span>
                                         </div>
@@ -284,10 +284,10 @@
                     <div class="swiper-pagination"></div>
                     <div class="swiper-buttons__container">
                         <div class="swiper-button-prev">
-                            <img class="lozad swiper-button-prev_customize" data-src="image/vector.svg" alt="">
+                            <img class="lozad swiper-button-prev_customize" data-src="assets/images/vector.svg" alt="">
                         </div>
                         <div class="swiper-button-next">
-                            <img class="lozad swiper-button-next_customize" data-src="image/vector.svg" alt="">
+                            <img class="lozad swiper-button-next_customize" data-src="assets/images/vector.svg" alt="">
                         </div>
                     </div>
                 </div>
@@ -411,7 +411,7 @@
                         <div class="action">
                             <a href="" class="action__link-img">
                                 <svg class="action__img">
-                                    <use href="sprite.svg#action1"></use>
+                                    <use href="assets/images/icons.svg#icon-action1"></use>
                                 </svg>
                             </a>
                             <div class="action__link-text">Бесплатная доставка при заказе от 300 грн</div>
@@ -419,7 +419,7 @@
                         <div class="action">
                             <a href="" class="action__link-img">
                                 <svg class="action__img">
-                                    <use href="sprite.svg#action2"></use>
+                                    <use href="assets/images/icons.svg#icon-action2"></use>
                                 </svg>
                             </a>
                             <div class="action__link-text">Акции и скидки среди 2400 товаров</div>
@@ -427,15 +427,15 @@
                         <div class="action">
                             <a href="" class="action__link-img">
                                 <svg class="action__img">
-                                    <use href="sprite.svg#action3"></use>
+                                    <use href="assets/images/icons.svg#icon-action3"></use>
                                 </svg>
                             </a>
                             <div class="action__link-text">Более 100 магазинов по всей Украине</div>
                         </div>
                         <div class="action">
                             <a href="" class="action__link-img">
-                                <svg class="action__img" fill="none">
-                                    <use href="sprite.svg#action4"></use>
+                                <svg class="action__img action__img--stroke" fill="none">
+                                    <use href="assets/images/icons.svg#icon-action4"></use>
                                 </svg>
                             </a>
                             <div class="action__link-text">Дисконтная программа ZooBonus.ua</div>
@@ -466,7 +466,7 @@
             <div class="registration">
                 <div class="registration__wrapper">
                     <picture>
-                        <img data-src="image/dog_and_cat.png" alt="" class="lozad registration__img">
+                        <img data-src="assets/images/dog_and_cat.png" alt="" class="lozad registration__img">
                     </picture>
                     <div class="registration__text">
                         Акции, скидки и специальные предложения для зарегистрированных пользователей
@@ -483,7 +483,7 @@
                     <div class="footer__block1 block1">
                         <a href="" class="block1__link block1__link--logo">
                             <svg class="block1__image logo">
-                                <use href=sprite.svg#wezom_logo></use>
+                                <use href="assets/images/icons.svg#icon-wezom_logo"></use>
                             </svg>
                         </a>
                         <a href="" target="_blank" class="block1__link block1__link_margin">© 2020 Интернет-магазин</a>
@@ -496,21 +496,21 @@
                             <div class="block2__social-networks social-networks">
                                 <a href="" target="_blank" class="social-networks__link">
                                     <svg class="social-networks__img">
-                                        <use href=sprite.svg#facebook></use>
+                                        <use href="assets/images/icons.svg#icon-facebook"></use>
                                     </svg>
                                 </a>
                             </div>
                             <div class="block2__social-networks social-networks">
                                 <a href="" target="_blank" class="social-networks__link">
                                     <svg class="social-networks__img">
-                                        <use href=sprite.svg#instagram></use>
+                                        <use href="assets/images/icons.svg#icon-instagram"></use>
                                     </svg>
                                 </a>
                             </div>
                             <div class="block2__social-networks social-networks">
                                 <a href="" target="_blank" class="social-networks__link">
                                     <svg class="social-networks__img">
-                                        <use href=sprite.svg#viber></use>
+                                        <use href="assets/images/icons.svg#icon-viber"></use>
                                     </svg>
                                 </a>
                             </div>
@@ -526,13 +526,13 @@
                         <div class="block3__feedback feedback">
                             <a href="" target="_blank" class="feedback__chat chat chat_margin-right">
                                 <svg class="chat__img">
-                                    <use href=sprite.svg#chat></use>
+                                    <use href="assets/images/icons.svg#icon-chat"></use>
                                 </svg>
                                 <h2 class="chat__title">Чат онлайн</h2>
                             </a>
                             <a href="" target="_blank" class="feedback__post post">
                                 <svg class="post__img">
-                                    <use href=sprite.svg#post-us></use>
+                                    <use href="assets/images/icons.svg#icon-post-us"></use>
                                 </svg>
                                 <h2 class="post__title">Написать нам</h2>
                             </a>
@@ -559,7 +559,7 @@
                             <p class="block5__text">Вверх</p>
                             <div class="block5__vector">
                                 <svg class="block5__img">
-                                    <use href=sprite.svg#vector></use>
+                                    <use href="assets/images/icons.svg#icon-vector"></use>
                                 </svg>
                             </div>
                         </button>
@@ -568,10 +568,10 @@
                 <div class="footer__footer">
                     <div class="footer__payment payment">
                         <svg class="footer__payment-img payment__img portmone">
-                            <use href=sprite.svg#portmone></use>
+                            <use href="assets/images/icons.svg#icon-portmone"></use>
                         </svg>
                         <svg class="footer__payment-img payment__img mastercard">
-                            <use href=sprite.svg#mastercard></use>
+                            <use href="assets/images/icons.svg#icon-mastercard"></use>
                         </svg>
                         <img data-src="image/visa.png" alt="" class="lozad footer__payment-img payment__img">
                     </div>
@@ -593,24 +593,24 @@
             </div>
             <button class="button-search">
                 <svg class="button-search__image">
-                    <use href=sprite.svg#search></use>
+                    <use href="assets/images/icons.svg#icon-search"></use>
                 </svg>
                 Поиск
             </button>
             <div class="usage">
                 <a href="" class="usage__item">
                     <svg class="usage__img">
-                        <use href=sprite.svg#human></use>
+                        <use href="assets/images/icons.svg#icon-human"></use>
                     </svg>
                 </a>
                 <a href="" class="usage__item">
                     <svg class="usage__img">
-                        <use href=sprite.svg#like></use>
+                        <use href="assets/images/icons.svg#icon-like"></use>
                     </svg>
                 </a>
                 <a href="" class="usage__item usage__img_counter">
                     <svg class="usage__img">
-                        <use href=sprite.svg#basket></use>
+                        <use href="assets/images/icons.svg#icon-basket"></use>
                     </svg>
                     <div class="usage__counter">0</div>
                 </a>

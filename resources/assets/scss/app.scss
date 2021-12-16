@@ -8,9 +8,11 @@
 // сбор всех основных блоков для текущего проекта
 // -------------------------------------------------
 @import 'blocks/normalize';
+@import 'blocks/fonts';
 @import 'blocks/html';
 @import 'blocks/container';
 @import 'blocks/layout';
+
 @import 'blocks/header';
 @import 'blocks/main';
 @import 'blocks/footer';
@@ -28,4 +30,4 @@
 @import 'blocks/about-us';
 @import 'blocks/show-more';
 
-@import 'blocks/fonts';
+

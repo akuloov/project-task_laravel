@@ -12,11 +12,13 @@
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    @media(max-width: 750px){
+
+    @media(max-width: 750px) {
         flex-wrap: wrap;
         max-width: 400px;
     }
-    @media(max-width: 370px){
+
+    @media(max-width: 370px) {
         flex-direction: column;
     }
 }
@@ -46,6 +48,12 @@
     &__img {
         max-width: 44px;
         max-height: 32px;
+        fill: #E9793A;
+
+        &--stroke {
+            fill: none;
+            stroke: #E9793A;
+        }
     }
 
     &__link-text {
@@ -56,8 +64,8 @@
         text-align: center;
 
     }
-    
-    @media(max-width: 750px){
+
+    @media(max-width: 750px) {
         margin-bottom: 30px;
     }
 }
