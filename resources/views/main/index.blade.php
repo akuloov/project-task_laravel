@@ -567,12 +567,8 @@
                 </div>
                 <div class="footer__footer">
                     <div class="footer__payment payment">
-                        <svg class="footer__payment-img payment__img portmone">
-                            <use href="assets/images/icons.svg#icon-portmone"></use>
-                        </svg>
-                        <svg class="footer__payment-img payment__img mastercard">
-                            <use href="assets/images/icons.svg#icon-mastercard"></use>
-                        </svg>
+                        <img src="assets/images/portmone.png" alt="" class="footer__payment-img payment__img portmone">
+                        <img src="assets/images/mastercard.png" alt="" class="footer__payment-img payment__img mastercard">
                         <img data-src="assets/images/visa.png" alt="" class="lozad footer__payment-img payment__img">
                     </div>
                     <h2 class="footer__wezom wezom">
