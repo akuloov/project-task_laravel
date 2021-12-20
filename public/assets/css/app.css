@@ -1214,6 +1214,7 @@ body.modal-open {
   max-width: 30px;
   max-height: 15px;
   fill: none;
+  stroke: #fff;
 }
 body.lock {
   overflow: hidden;

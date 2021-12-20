@@ -573,7 +573,7 @@
                         <svg class="footer__payment-img payment__img mastercard">
                             <use href="assets/images/icons.svg#icon-mastercard"></use>
                         </svg>
-                        <img data-src="image/visa.png" alt="" class="lozad footer__payment-img payment__img">
+                        <img data-src="assets/images/visa.png" alt="" class="lozad footer__payment-img payment__img">
                     </div>
                     <h2 class="footer__wezom wezom">
                         Разработано в <a target="_blank" href="https://wezom.com.ua/" class="wezom__link">WEZOM</a>
