@@ -20,7 +20,7 @@
         </main>
         @include("includes.footer")
         @include("includes.mobile-menu")
-        @include("includes.registration")
+        
     </div>
     <script type="text/javascript" src="assets/js/lozad.min.js"></script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
