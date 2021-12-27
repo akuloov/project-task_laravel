@@ -13,10 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/includes.pop-up-registration/', function () {
-    return view('pop-up-registration');
-});
-
 Route::get('/', function () {
     return view('main');
 });

@@ -14,13 +14,13 @@
     <div class="layout">
         <div class="layout__body">
             @include("includes.header")
+            @include("includes.popup-search")
         </div>
         <main class="main">
             @yield("content")
         </main>
         @include("includes.footer")
         @include("includes.mobile-menu")
-        
     </div>
     <script type="text/javascript" src="assets/js/lozad.min.js"></script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
