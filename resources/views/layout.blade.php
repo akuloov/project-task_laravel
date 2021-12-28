@@ -16,14 +16,16 @@
             @include("includes.header")
             <div class="popup-menu">
                 <div class="categories">
-                    <a href="" class="categories__item">
-                        <svg class="categories__icon categories__icon--animal">
-                            <use href="assets/images/icons.svg#icon-dogs"></use>
-                        </svg>
-                        <span class="categories__text">Собаки</span>
-                        <svg class="categories__icon">
-                            <use href="assets/images/icons.svg#icon-vector"></use>
-                        </svg>
+                    <a href="" class="categories__link">
+                        <div class="categories__item">
+                            <svg class="categories__icon categories__icon--animal">
+                                <use href="assets/images/icons.svg#icon-rodents"></use>
+                            </svg>
+                            <span class="categories__text">Собаки</span>
+                            <svg class="categories__icon-vector">
+                                <use href="assets/images/icons.svg#icon-vector"></use>
+                            </svg>
+                        </div>
                     </a>
                 </div>
             </div>
