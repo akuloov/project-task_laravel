@@ -14,6 +14,19 @@
     <div class="layout">
         <div class="layout__body">
             @include("includes.header")
+            <div class="popup-menu">
+                <div class="categories">
+                    <a href="" class="categories__item">
+                        <svg class="categories__icon categories__icon--animal">
+                            <use href="assets/images/icons.svg#icon-dogs"></use>
+                        </svg>
+                        <span class="categories__text">Собаки</span>
+                        <svg class="categories__icon">
+                            <use href="assets/images/icons.svg#icon-vector"></use>
+                        </svg>
+                    </a>
+                </div>
+            </div>
             @include("includes.popup-search")
         </div>
         <main class="main">
