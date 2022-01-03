@@ -1,3 +1,55 @@
+<?php $kind = (object) [
+    [
+        'title' => 'КОРМ',
+        'items' => ['Сухой корм', 'Консервы', 'Ветеринарные диеты',  'Заменители молока'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Игрушки',
+        'items' => ['Интерактивные', 'Удочки и дразнилки', 'Мышки',  'Мячики'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Здоровье',
+        'items' => ['Средства от блох и клещей', 'Витамины и добавки', 'Средства от глистов',  'Ветеринарные препараты'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Одежда и обувь',
+        'items' => ['Комбинезоны', 'Костюмы', 'Дождевики',  'Свитера'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Товары для дома',
+        'items' => ['Домики', 'Когтеточки', 'Спальные места',  'Миски и поилки'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Лакомства',
+        'items' => ['Кости', 'Печенье', 'Для дрессировки',  'Сушеные лакомства'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Уход',
+        'items' => ['Средства по уходу', 'Инструменты для груминга', 'Туалеты и пеленки'],
+    ],
+    [
+        'title' => 'Косметика',
+        'items' => ['Шампуни', 'Духи', 'Кондиционеры и спреи',  'Профессиональная и выставочная косметика'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Амуниция',
+        'items' => ['Поводки', 'Ошейники', 'Шлейки',  'Рулетки'],
+        'show-more' => 'Смотреть все >'
+    ],
+    [
+        'title' => 'Путешествия',
+        'items' => ['Сумки и переноски','Автоаксессуары'],
+    ],
+]
+?>
+
 <!doctype html>
 <html translate="no">
 
@@ -75,25 +127,20 @@
                             </svg>
                             <span class="categories__text">Акции</span>
                         </div>
-                    </a>  
+                    </a>
                 </div>
                 <div class="kinds">
+                    @foreach($kind as $kindCard)
                     <div class="kinds__kind kind">
-                        <div class="kind__title">Корм</div>
-                        <a href="" class="kind__item">Сухой корм</a>
-                        <a href="" class="kind__item">Консервы</a>
-                        <a href="" class="kind__item">Ветеринарные диеты</a>
-                        <a href="" class="kind__item">Заменители молока</a>
-                        <a href="" class="kind__item kind__item--green">Смотреть все ></a>
+                        <div class="kind__title">{{$kindCard['title']}}</div>
+                     @foreach($kindCard['items'] as $item)
+                        <a href="" class="kind__item">{{$item}}</a>
+                     @endforeach
+                     @if(Arr::hasAny($kindCard, 'show-more'))
+                        <a href="" class="kind__item kind__item--green">{{$kindCard['show-more']}}</a>
+                     @endif
                     </div>
-                    <div class="kind">
-                        <div class="kind__title">Корм</div>
-                        <a href="" class="kind__item">Сухой корм</a>
-                        <a href="" class="kind__item">Консервы</a>
-                        <a href="" class="kind__item">Ветеринарные диеты</a>
-                        <a href="" class="kind__item">Заменители молока</a>
-                        <a href="" class="kind__item kind__item--green">Смотреть все ></a>
-                    </div>
+                    @endforeach
                 </div>
             </div>
             @include("includes.popup-search")
