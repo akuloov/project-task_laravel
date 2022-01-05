@@ -45,7 +45,7 @@
                     </picture>
                 </a>
                 <nav class="header__nav-bottom nav-bottom">
-                    <a href="" class="nav-bottom__link">Товары по питомцам</a>
+                    <a href="" class="nav-bottom__link bb">Товары по питомцам</a>
                     <a href="" class="nav-bottom__link">Бренды</a>
                     <a href="" class="nav-bottom__link">Ветаптека</a>
                     <a href="" class="nav-bottom__link">Найди друга</a>

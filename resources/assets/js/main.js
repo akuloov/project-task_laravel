@@ -7,6 +7,8 @@ $('.search-input__close').click(function(){
     $('.popup-search').addClass('popup-search-unactive');
 })*/
 
+//ПОИСК
+
 $('.button-search').click(function(){
     $('.popup-search').css('display', 'block');
 })
@@ -15,8 +17,22 @@ $('.search-input__close').click(function(){
     $('.popup-search').css('display', 'none');
 })
 
+////ПОПАП-МЕНЮ
+
+$('.bb').mouseenter(function(){
+    $('.popup-menu').css('display', 'flex');
+})
 
 
+
+$('.categories__item').click(function(){
+  $(this).addClass('categories__item--active');
+    $('.kinds').css('display', 'flex');
+})
+
+/*$('.bb').mouseleave(function(){
+    $('.popup-menu').css('display', 'none');
+})*/
 
 //БУРГЕР МЕНЮ
 $('.header__burger').click(function () {

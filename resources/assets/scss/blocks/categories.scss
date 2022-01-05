@@ -1,9 +1,9 @@
-.popup-menu{
-    display: flex;
+.popup-menu {
+    display: none;
 }
 
 .categories {
-    width: 450px;
+    min-width: 450px;
     background: #F4F5F8;
     padding-top: 12px;
     display: flex;
@@ -40,10 +40,24 @@
         &:hover .categories__icon {
             stroke: #2C9323;
         }
-        
-        &:hover .categories__icon--fill{
+
+        &:hover .categories__icon--fill {
             fill: #2C9323;
             stroke: none;
+        }
+
+        &--active {
+            background: #fff;
+            color: #2C9323;
+
+            .categories__icon {
+                stroke: #2C9323;
+            }
+
+            .categories__icon--fill {
+                fill: #2C9323;
+                stroke: none;
+            }
         }
     }
 
@@ -71,8 +85,8 @@
         &--fill {
             fill: #202454;
         }
-        
-        &--stroke-none{
+
+        &--stroke-none {
             stroke: none;
         }
     }
