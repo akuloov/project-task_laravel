@@ -5,24 +5,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <title>Document</title>
-    <link rel="shortcut icon" type="image/x-icon" href="wezom.ico">
+    <link rel="shortcut icon" type="assets/images/x-icon" href="wezom.ico">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
     <link rel="stylesheet" href="assets/css/app.css">
 </head>
 
 <body>
     <div class="layout">
-        <div class="layout__body">
-            @include("includes.header")
-            @include("includes.popup-menu")
-            @include("includes.popup-search")
+        <div class="wrapper">
+            <div class="layout__body">
+                @include("includes.header")
+                @include("includes.popup-menu")
+                @include("includes.popup-search")
+            </div>
+            <main class="main">
+                @yield("content")
+            </main>
+            @include("includes.footer")
+            @include("includes.mobile-menu")
         </div>
-        <main class="main">
-            @yield("content")
-        </main>
-        @include("includes.footer")
         @include("includes.popup-registration")
-        @include("includes.mobile-menu")
     </div>
     <script type="text/javascript" src="assets/js/lozad.min.js"></script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

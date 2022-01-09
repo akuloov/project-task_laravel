@@ -60,7 +60,7 @@
                     Поиск
                 </button>
                 <div class="header__usage usage">
-                    <a href="" class="usage__item">
+                    <a href="#" class="usage__item">
                         <svg class="usage__img">
                             <use href=assets/images/icons.svg#icon-human></use>
                         </svg>

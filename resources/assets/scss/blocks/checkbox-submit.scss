@@ -1,0 +1,30 @@
+.checkbox-submit {
+    display: flex;
+
+    &__checkbox {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 20px;
+        height: 20px;
+        background: #E77E42;
+        border-radius: 3px;
+        padding: 3px;
+    }
+
+    &__img {
+        stroke: #fff;
+        fill: none;
+    }
+
+    &__text {
+        margin-left: 8px;
+        font-size: 12px;
+        line-height: 14px;
+        color: #7B94B0;
+        
+        &--black{
+            color: #202454;
+        }
+    }
+}

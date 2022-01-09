@@ -1,0 +1,17 @@
+.enter-with{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    &__line{
+        width: 120px;
+        height: 1px;
+        background: #E0E0E0;
+    }
+    
+    &__text{
+        color: #7B94B0;
+        font-size: 12px;
+        white-space: nowrap;
+    }
+}

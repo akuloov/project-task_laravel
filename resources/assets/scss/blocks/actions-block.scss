@@ -1,0 +1,21 @@
+.actions-block {
+    display: flex;
+    border-radius: 12px;
+    background: rgba(58, 158, 253, 0.1);
+    padding: 30px;
+
+    &__icon {
+        height: 32px;
+        width: 32px;
+        stroke: #202454;
+        fill: none;
+        margin-right: 30px;
+    }
+
+    &__text {
+        color: #202454;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 19px;
+    }
+}

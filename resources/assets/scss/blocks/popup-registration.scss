@@ -1,10 +1,73 @@
+.wrapper{
+   
+}
+
 .popup-registration {
-    display: flex;
+    display: none;
     flex-direction: column;
     max-width: 460px;
     margin: 10px auto;
     position: absolute;
-    top: 15%;
+    z-index: 10000;
+    top: 16%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background: gray;
+    padding-bottom: 150px;
+
+    &__container {
+        padding: 0 30px;
+    }
+
+    &__close-img {
+        width: 16px;
+        height: 16px;
+        stroke: #7B94B0;
+        margin-left: auto;
+        margin-right: 20px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    &__title {
+        color: #202454;
+        font-size: 32px;
+        margin-left: 30px;
+        margin-bottom: 24px;
+    }
+
+    &__line {
+        background: #E0E0E0;
+        height: 1px;
+        margin-bottom: 32px;
+    }
+
+    &__input {
+        width: 100%;
+        border: 1px solid #E0E0E0;
+        box-sizing: border-box;
+        border-radius: 12px;
+        outline: none;
+        color: #7B94B0;
+        padding: 16px;
+        margin-bottom: 32px;
+    }
+
+    &__button-submit {
+        margin-bottom: 24px;
+    }
+
+    &__enter-with {
+        margin-bottom: 25px;
+    }
+
+    &__networks {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 25px;
+    }
+    
+    &__checkbox-submit {
+        margin-bottom: 56px;
+    }
 }

@@ -1,0 +1,18 @@
+.button-submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E77E42;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #fff;
+    padding: 15px;
+    transition: 0.3s;
+    
+    &:hover{
+       opacity: 0.7; 
+    }
+}

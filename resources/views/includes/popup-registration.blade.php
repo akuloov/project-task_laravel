@@ -14,12 +14,12 @@
         </div>
         <div class="popup-registration__networks">
             <a href="" class="button-network">
-                <svg class="button-network">
+                <svg class="button-network__img">
                     <use href="assets/images/icons.svg#icon-google"></use>
                 </svg>
             </a>
             <a href="" class="button-network">
-                <svg class="button-network">
+                <svg class="button-network__img">
                     <use href="assets/images/icons.svg#icon-facebook"></use>
                 </svg>
             </a>
@@ -29,9 +29,9 @@
                 <svg class="checkbox-submit__img">
                     <use href="assets/images/icons.svg#icon-done"></use>
                 </svg>
-                <div class="checkbox-submit__text">
-                    Даю согласие на обработку своих персональных данных в соответствии с <span class="checkbox-submit__text--black">данной офертой</span>
-                </div>
+            </div>
+            <div class="checkbox-submit__text">
+                Даю согласие на обработку своих персональных данных в соответствии с <span class="checkbox-submit__text--black">данной офертой</span>
             </div>
         </div>
         <div class="popup-registration__actions-block actions-block">
