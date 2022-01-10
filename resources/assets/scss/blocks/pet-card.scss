@@ -1,0 +1,66 @@
+.pet-card {
+    width: 330px;
+    box-shadow: 0px 4px 12px rgba(84, 143, 199, 0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    background: #FFF;
+    padding-bottom: 30px;
+
+    &__header {
+        height: 80px;
+        background: #2C9323;
+        background-image: url(../images/dog-avatar__back.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        justify-content: space-between;
+        padding-top: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+        position: relative;
+    }
+
+    &__avatar {
+        position: absolute;
+        top: 86px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        &-wrapper {
+            border-radius: 50%;
+            background: radial-gradient(50% 50% at 50% 50%, #9DFFA7 0%, #2C9323 100%), #C4C4C4;
+        }
+    }
+
+    &__question {
+        height: 16px;
+        width: 16px;
+        stroke: #fff;
+        fill: #fff;
+        cursor: pointer;
+    }
+
+    &__text {
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: #FFF;
+    }
+
+    &__bottom {
+        margin-top: 56px;
+    }
+
+    &__name-pet {
+        color: #202454;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: center;
+        margin-bottom: 7px;
+    }
+
+    &__white-button {
+        margin: 0 auto;
+    }
+}

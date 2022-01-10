@@ -1,0 +1,41 @@
+.catalogs {
+
+    &__title {
+        color: #202454;
+        font-weight: bold;
+        font-size: 56px;
+        line-height: 100%;
+        margin-bottom: 24px;
+
+        &--small {
+            font-weight: normal;
+        }
+    }
+
+    &__description {
+        color: #202454;
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    
+    &__items{
+        max-width: 680px;
+    }
+
+    &__item {
+        color: #7B94B0;
+        font-size: 14px;
+        background: #FFF;
+        border-radius: 12px;
+        padding: 13px;
+        transition: all .3s;
+        margin-bottom: 12px;
+        display: inline-block;
+        margin-right: 4px;
+        
+        &:hover{
+            background: #E77E42;
+            color: #fff;
+        }
+    }
+}

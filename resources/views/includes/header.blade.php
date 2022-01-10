@@ -37,7 +37,7 @@
         </div>
         <div class="header-bottom">
             <div class="header-bottom__left-block-bottom left-block-bottom">
-                <a href="" class="header__link">
+                <a href="/" class="header__link">
                     <picture>
                         <svg class="header__logo logo">
                             <use href="assets/images/icons.svg#icon-wezom_logo"></use>
@@ -45,8 +45,8 @@
                     </picture>
                 </a>
                 <nav class="header__nav-bottom nav-bottom">
-                    <a href="" class="nav-bottom__link bb">Товары по питомцам</a>
-                    <a href="" class="nav-bottom__link">Бренды</a>
+                    <a href="/catalog" class="nav-bottom__link bb">Товары по питомцам</a>
+                    <a href="/products" class="nav-bottom__link">Бренды</a>
                     <a href="" class="nav-bottom__link">Ветаптека</a>
                     <a href="" class="nav-bottom__link">Найди друга</a>
                     <a href="" class="nav-bottom__link">Ветклиники</a>

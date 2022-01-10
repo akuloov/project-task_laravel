@@ -1,0 +1,66 @@
+.catalog-card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    &__link-img {
+        transition: all .3s;
+
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+
+    &__main {
+        position: absolute;
+        left: 30px;
+        top: 300px;
+    }
+
+    &__title {
+        color: #FFF;
+        font-weight: bold;
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+
+    &__look-all {
+        color: #FFF;
+        font-weight: bold;
+        font-size: 12px;
+    }
+
+    &__items {
+        margin-top: 24px;
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__item {
+        color: #202454;
+        font-size: 14px;
+        transition: all .3s;
+        margin-bottom: 16px;
+        max-width: 200px;
+
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+
+    &__more {
+        margin-left: 30px;
+        color: #E77E42;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        width: max-content;
+        border-bottom: 1px solid #E77E42;
+        transition: all .3s;
+        
+        &:hover{
+            opacity: 0.7;
+        }
+    }
+}

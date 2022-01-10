@@ -18,9 +18,8 @@
                 @include("includes.popup-menu")
                 @include("includes.popup-search")
             </div>
-            <main class="main">
                 @yield("content")
-            </main>
+            @include("includes.registration-dog")
             @include("includes.footer")
             @include("includes.mobile-menu")
         </div>

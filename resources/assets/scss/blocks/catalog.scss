@@ -1,0 +1,30 @@
+.catalog {
+    &-header {
+        display: flex;
+        padding-bottom: 190px;
+        align-items: flex-start;
+
+        &__background {
+            background-image: url(../images/background-catalog.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            padding-top: 70px;
+            background-size: cover;
+        }
+    }
+    
+    &-bottom{
+        margin-top: 80px;
+        display: flex;
+        flex-wrap: wrap;
+        
+        &__catalog-card{
+            margin-right: 30px;
+            margin-bottom: 100px;
+        }
+    }
+    
+    &__catalogs{
+        margin-left: 50px;
+    }
+}

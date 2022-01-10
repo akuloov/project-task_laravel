@@ -125,5 +125,8 @@
             @endif
         </div>
         @endforeach
+        <picture class="popup-menu__reclame">
+            <img src="assets/images/reclame.png" alt="">
+        </picture>
     </div>
 </div>

@@ -12,10 +12,11 @@
     align-items: center;
     white-space: nowrap;
     font-family: 'RobotoCondensed';
+    transition: all .3s;
     
     &:hover{
         background: #E77E42;
         color: white;
-        transition: all .3s;
+        
     }
 }
