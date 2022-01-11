@@ -125,8 +125,10 @@
             @endif
         </div>
         @endforeach
-        <picture class="popup-menu__reclame">
-            <img src="assets/images/reclame.png" alt="">
-        </picture>
+        <a href="">
+            <picture class="popup-menu__reclame">
+                <img src="assets/images/reclame.png" alt="">
+            </picture>
+        </a>
     </div>
 </div>

@@ -1,0 +1,40 @@
+.products{
+    display: flex;
+    
+    &__page{
+        margin-top: 16px;
+        margin-bottom: 40px;
+        display: block;
+    }
+    
+    &__categories{
+        margin-top: 40px;
+        margin-bottom: 32px;
+    }
+}
+
+.categories{
+    &-title{
+        color: #202454;
+        text-transform: uppercase;
+        font-weight: bold;
+font-size: 16px;
+        margin-bottom: 24px;
+    }
+    
+    &-item{
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    &-text{
+        color: #202454;
+        font-size: 14px;
+    }
+    
+    &-int{
+        color: #7B94B0;
+        font-size: 14px;
+    }
+}

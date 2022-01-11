@@ -4,64 +4,64 @@
 
 <?php $catalog = (object) [
     [
-        'img' => 'C:/Openserver/domains/laravel.loc/public/assets/images/catalog-card1.png',
+        'img' => 'assets/images/catalog-card1.png',
         'title' => 'Корм',
         'look-all' => 'Смотреть все >',
         'items' => ['Сухой корм', 'Консервы', 'Ветеринарные диеты',  'Заменители молока']
     ],
     [
-        'img' => 'assets/images/catalog-card2.png',
+        'img' => '/assets/images/catalog-card2.png',
         'title' => 'Лакомства',
         'look-all' => 'Смотреть все >',
         'items' => ['Кости', 'Печенье', 'Для дрессировки',  'Сушеные лакомства']
     ],
     [
-        'img' => 'assets/images/catalog-card3.png',
+        'img' => '/assets/images/catalog-card3.png',
         'title' => 'Игрушки',
         'look-all' => 'Смотреть все >',
         'items' => ['Интерактивные', 'Удочки и дразнилки', 'Мышки',  'Мячики'],
         'more' => 'Больше категорий'
     ],
     [
-        'img' => 'assets/images/catalog-card4.png',
+        'img' => '/assets/images/catalog-card4.png',
         'title' => 'Уход',
         'look-all' => 'Смотреть все >',
         'items' => ['Средства по уходу', 'Инструменты для груминга', 'Туалеты и пеленки']
     ],
     [
-        'img' => 'assets/images/catalog-card5.png',
+        'img' => '/assets/images/catalog-card5.png',
         'title' => 'Здоровье',
         'look-all' => 'Смотреть все >',
         'items' => ['Средства от блох и клещей', 'Витамины и добавки', 'Средства от глистов',  'Ветеринарные препараты']
     ],
     [
-        'img' => 'assets/images/catalog-card6.png',
+        'img' => '/assets/images/catalog-card6.png',
         'title' => 'Косметика',
         'look-all' => 'Смотреть все >',
         'items' => ['Шампуни', 'Духи', 'Кондиционеры и спреи',  'Профессиональная и выставочная косметика']
     ],
     [
-        'img' => 'assets/images/catalog-card7.png',
+        'img' => '/assets/images/catalog-card7.png',
         'title' => 'Одежда и обувь',
         'look-all' => 'Смотреть все >',
         'items' => ['Комбинезоны', 'Костюмы', 'Дождевики',  'Свитера'],
         'more' => 'Больше категорий'
     ],
     [
-        'img' => 'assets/images/catalog-card8.png',
+        'img' => '/assets/images/catalog-card8.png',
         'title' => 'Амуниция',
         'look-all' => 'Смотреть все >',
         'items' => ['Поводки', 'Ошейники', 'Шлейки',  'Рулетки', 'Намордники'],
         'more' => 'Больше категорий'
     ],
     [
-        'img' => 'assets/images/catalog-card9.png',
+        'img' => '/assets/images/catalog-card9.png',
         'title' => 'Товары для дома',
         'look-all' => 'Смотреть все >',
         'items' => ['Домики', 'Когтеточки', 'Спальные места',  'Миски и поилки']
     ],
     [
-        'img' => 'assets/images/catalog-card10.png',
+        'img' => '/assets/images/catalog-card10.png',
         'title' => 'Путешествия',
         'look-all' => 'Смотреть все >',
         'items' => ['Сумки и переноски', 'Автоаксессуары']
@@ -113,7 +113,7 @@
         <div class="catalog-bottom__catalog-card catalog-card">
             <a href="" class="catalog-card__link-img">
                 <picture class="catalog-card__img">
-                    {{$catalogCard['img']}}
+                    {!!$catalogCard['img']!!}
                 </picture>
             </a>
             <div class="catalog-card__main">

@@ -58,6 +58,14 @@
         line-height: 21px;
         text-align: center;
         margin-bottom: 7px;
+        display: block;
+    }
+    
+    &__surname{
+        color: #7B94B0;
+        font-size: 14px;
+line-height: 16px;
+text-align: center;
     }
 
     &__white-button {
