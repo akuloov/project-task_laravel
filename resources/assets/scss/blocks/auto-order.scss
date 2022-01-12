@@ -1,0 +1,52 @@
+.auto-order {
+    padding: 27px 0;
+    border-top: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+
+    &__top {
+        display: flex;
+        align-items: center;
+        margin-bottom: 4px;
+    }
+
+    &__checkbox {
+        margin-right: 12px;
+    }
+
+    &__img {
+        width: 32px;
+        height: 32px;
+        border-radius: 20px;
+        background: #E95471;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 8px;
+    }
+
+    &__icon {
+        fill: #fff;
+        height: 22px;
+        width: 17px;
+    }
+
+    &__text {
+        color: #202454;
+        font-weight: bold;
+        font-size: 18px;
+        margin-right: 6px;
+    }
+
+    &__question {
+        stroke: #7B94B0;
+        fill: #7B94B0;
+        width: 16px;
+        height: 16px;
+    }
+
+    &__bottom {
+        color: #7B94B0;
+        font-size: 12px;
+        margin-left: 34px;
+    }
+}

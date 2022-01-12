@@ -2241,6 +2241,9 @@ body.lock {
   margin-top: 40px;
   margin-bottom: 32px;
 }
+.products__auto-order {
+  margin-bottom: 24px;
+}
 
 .categories-title {
   color: #202454;
@@ -2272,6 +2275,52 @@ body.lock {
 }
 .page--gray2 {
   color: #B6B7C4;
+}
+
+.auto-order {
+  padding: 27px 0;
+  border-top: 1px solid #E0E0E0;
+  border-bottom: 1px solid #E0E0E0;
+}
+.auto-order__top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.auto-order__checkbox {
+  margin-right: 12px;
+}
+.auto-order__img {
+  width: 32px;
+  height: 32px;
+  border-radius: 20px;
+  background: #E95471;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+}
+.auto-order__icon {
+  fill: #fff;
+  height: 22px;
+  width: 17px;
+}
+.auto-order__text {
+  color: #202454;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 6px;
+}
+.auto-order__question {
+  stroke: #7B94B0;
+  fill: #7B94B0;
+  width: 16px;
+  height: 16px;
+}
+.auto-order__bottom {
+  color: #7B94B0;
+  font-size: 12px;
+  margin-left: 34px;
 }
 @media (min-width: 360px) {
   html {
