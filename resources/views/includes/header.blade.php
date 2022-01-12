@@ -1,6 +1,6 @@
 <header class="header">
     <div class="mobile-header">
-        <a href="" class="mobile-link">
+        <a href="/" class="mobile-link">
             <svg class="mobile-logo">
                 <use href="assets/images/icons.svg#icon-wezom_logo"></use>
             </svg>

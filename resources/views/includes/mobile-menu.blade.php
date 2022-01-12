@@ -38,8 +38,8 @@
         <a class="mobile-nav__link" href="">Покупателям</a>
     </nav>
     <nav class="mobile-nav mobile-nav_margin">
-        <a href="" class="mobile-nav__link">Товары по питомцам</a><br>
-        <a href="" class="mobile-nav__link">Бренды</a><br>
+        <a href="/catalog" class="mobile-nav__link">Товары по питомцам</a><br>
+        <a href="/products" class="mobile-nav__link">Бренды</a><br>
         <a href="" class="mobile-nav__link">Ветаптека</a><br>
         <a href="" class="mobile-nav__link">Найди друга</a><br>
         <a href="" class="mobile-nav__link">Ветклиники</a>

@@ -5,6 +5,11 @@
 <div class="container">
     <div class="products">
         <div class="products-left">
+           <label class="check">
+               <input type="checkbox" class="check__input">
+               <span class="check__box"></span>
+               Вот
+           </label>
             <a href="" class="products__page page">
                 Собаки <span class="page--gray1">></span> <span class="page--gray2">Корм для собак</span>
             </a>

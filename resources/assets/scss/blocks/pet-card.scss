@@ -5,6 +5,10 @@
     overflow: hidden;
     background: #FFF;
     padding-bottom: 30px;
+    
+    @media(max-width: 340px){
+            width: 310px;
+        }
 
     &__header {
         height: 80px;
@@ -60,12 +64,12 @@
         margin-bottom: 7px;
         display: block;
     }
-    
-    &__surname{
+
+    &__surname {
         color: #7B94B0;
         font-size: 14px;
-line-height: 16px;
-text-align: center;
+        line-height: 16px;
+        text-align: center;
     }
 
     &__white-button {

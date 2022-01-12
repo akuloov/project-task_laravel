@@ -4,7 +4,7 @@
 
 <?php $catalog = (object) [
     [
-        'img' => 'assets/images/catalog-card1.png',
+        'img' => '/assets/images/catalog-card1.png',
         'title' => 'Корм',
         'look-all' => 'Смотреть все >',
         'items' => ['Сухой корм', 'Консервы', 'Ветеринарные диеты',  'Заменители молока']
@@ -113,7 +113,7 @@
         <div class="catalog-bottom__catalog-card catalog-card">
             <a href="" class="catalog-card__link-img">
                 <picture class="catalog-card__img">
-                    {!!$catalogCard['img']!!}
+                    <img class="catalog-card__img--width" src="{!!$catalogCard['img']!!}" alt="">
                 </picture>
             </a>
             <div class="catalog-card__main">
@@ -130,25 +130,9 @@
             @endif
         </div>
         @endforeach
-        <div class="catalog-bottom__catalog-card catalog-card">
-            <a href="" class="catalog-card__link-img">
-                <picture class="catalog-card__img">
-                    <img src="assets/images/catalog-card1.png" alt="">
-                </picture>
-            </a>
-            <div class="catalog-card__main">
-                <div class="catalog-card__title">Корм</div>
-                <a href="" class="catalog-card__look-all">Смотреть все ></a>
-            </div>
-            <div class="catalog-card__items">
-                <a href="" class="catalog-card__item">Сухой корм</a>
-                <a href="" class="catalog-card__item">Консервы</a>
-                <a href="" class="catalog-card__item">Ветеринарные диеты</a>
-                <a href="" class="catalog-card__item">Заменители молока</a>
-            </div>
-            <a href="" class="catalog-card__more">Больше категорий</a>
-        </div>
     </div>
 </div>
-@include("includes.about-us")
+<div class="container">
+    @include("includes.about-us")
+</div>
 @endsection

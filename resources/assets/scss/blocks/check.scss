@@ -1,0 +1,23 @@
+.check{
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    
+    &__input{
+        appearance: none;
+        position: absolute;
+        
+        &:checked + &__box{
+            background-image: url(../images/check.svg);
+        }
+    }
+    
+    &__box{
+        position: absolute;
+        width: 22px;
+        height: 22px;
+        border-radius: 3px;
+        background: #E77E42;
+        margin-left: -30px;
+    }
+}
