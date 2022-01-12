@@ -5,11 +5,6 @@
 <div class="container">
     <div class="products">
         <div class="products-left">
-           <label class="check">
-               <input type="checkbox" class="check__input">
-               <span class="check__box"></span>
-               Вот
-           </label>
             <a href="" class="products__page page">
                 Собаки <span class="page--gray1">></span> <span class="page--gray2">Корм для собак</span>
             </a>
@@ -50,11 +45,14 @@
             </div>
             <div class="products__auto-order auto-order">
                 <div class="auto-order__top">
-                    <div class="auto-order__checkbox checkbox-submit__checkbox">
-                        <svg class="checkbox-submit__img">
-                            <use href="assets/images/icons.svg#icon-done"></use>
-                        </svg>
-                    </div>
+                    <label class="check">
+                        <input type="checkbox" class="check__input" checked>
+                        <span class="check__box">
+                            <svg class="check__img">
+                                <use href="assets/images/icons.svg#icon-check"></use>
+                            </svg>
+                        </span>
+                    </label>
                     <div class="auto-order__img">
                         <svg class="auto-order__icon">
                             <use href="assets/images/icons.svg#icon-reload"></use>
@@ -68,6 +66,96 @@
                 <div class="auto-order__bottom">
                     Экономия до 10% на заказах
                 </div>
+            </div>
+            <div class="brand">
+                <div class="brand__top">
+                    <div class="brand__title">Бренд</div>
+                    <svg class="brand__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">ROYAL CANIN</span> <span class="brand__int">(584)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">1st Choice</span> <span class="brand__int">(36)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Home Food</span> <span class="brand__int">(12)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Acana</span> <span class="brand__int">(15)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input" checked>
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Nature's Protection</span> <span class="brand__int">(38)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Purina Pro Plan</span> <span class="brand__int">(49)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Advance</span> <span class="brand__int">(4)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">AnimAll VetLine</span> <span class="brand__int">(17)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Brit Care</span> <span class="brand__int">(19)</span>
+                </label>
+                <div class="brand__show-more">+ показать все</div>
             </div>
         </div>
     </div>
