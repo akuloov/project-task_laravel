@@ -1,5 +1,10 @@
-.brand {
-    margin-bottom: 32px;
+.selection {
+    padding: 24px 0;
+    border-top: 1px solid #E0E0E0;
+    
+    &--border{
+        border-bottom: 1px solid #E0E0E0;
+    }
 
     &__top {
         display: flex;
@@ -9,13 +14,16 @@
         cursor: pointer;
         border-radius: 7px;
         transition: all .3s;
+        
+        &--margin{
+            margin-bottom: 0;
+        }
 
         &:hover {
             background: #F4F5F8;
-            ;
         }
     }
-
+    
     &__title {
         color: #202454;
         font-weight: bold;
@@ -29,26 +37,5 @@
         transform: rotate(-90deg);
         fill: none;
         stroke: #202454;
-    }
-
-    &__check {
-        color: #202454;
-        font-size: 14px;
-        display: flex;
-        align-items: center;
-        margin-bottom: 15px;
-    }
-
-    &__int {
-        margin-left: 4px;
-        color: #7B94B0;
-    }
-
-    &__show-more {
-        cursor: pointer;
-        color: #E77E42;
-        font-weight: bold;
-        font-size: 12px;
-        margin-left: 34px;
     }
 }

@@ -1,0 +1,37 @@
+.sorting {
+    box-shadow: 0px 2px 8px rgba(32, 36, 84, 0.15);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: max-content;
+    padding: 8px;
+    transition: all .3s;
+    cursor: pointer;
+    
+    &:hover{
+        box-shadow: 0px 2px 8px rgba(32, 36, 84, 1);
+    }
+    
+    &__left{
+        margin-right: 47px;
+    }
+
+    &__by {
+        color: #7B94B0;
+        font-size: 11px;
+    }
+
+    &__selected {
+        color: #202454;
+        font-size: 14px;
+    }
+
+    &__icon {
+        width: 18px;
+        height: 9px;
+        fill: none;
+        stroke: #202454;
+        transform: rotate(90deg);
+    }
+}

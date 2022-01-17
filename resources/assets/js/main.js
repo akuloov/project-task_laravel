@@ -1,4 +1,3 @@
-
 /*$('.button-search').click(function(){
     $('.popup-search').addClass('popup-search-active');
 })
@@ -9,39 +8,39 @@ $('.search-input__close').click(function(){
 
 //ПОИСК
 
-$('.button-search').click(function(){
+$('.button-search').click(function () {
     $('.popup-search').css('display', 'block');
 })
 
-$('.search-input__close').click(function(){
+$('.search-input__close').click(function () {
     $('.popup-search').css('display', 'none');
 })
 
 ////ПОПАП-МЕНЮ
 
-$('.bb').mouseenter(function(){
+$('.bb').mouseenter(function () {
     $('.popup-menu').css('display', 'flex');
 })
 
 
 
-$('.categories__item').click(function(){
-  $(this).addClass('categories__item--active');
+$('.categories__item').click(function () {
+    $(this).addClass('categories__item--active');
     $('.kinds').css('display', 'flex');
 })
 
 //ЧЕКБОКС
-$('checkbox-submit__img').click(function(){
+$('checkbox-submit__img').click(function () {
     $(this).css('display', 'inline');
 })
 
 //ПОПАП-РЕГИСТРАЦИЯ
-$('.usage__item').click(function(){
+$('.usage__item').click(function () {
     $('.popup-registration').css('display', 'flex');
     $('.wrapper').css('filter', 'blur(5px)');
 })
 
-$('.popup-registration__close-img').click(function(){
+$('.popup-registration__close-img').click(function () {
     $('.popup-registration').css('display', 'none');
     $('.wrapper').css('display', 'none');
 })

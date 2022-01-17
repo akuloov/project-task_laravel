@@ -1,0 +1,37 @@
+.filters {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+    
+    &__filter{
+        margin-right: 8px;
+    }
+}
+
+.filter {
+    padding: 7px;
+    background: #F4F5F8;
+    border-radius: 3px;
+    width: max-content;
+    display: flex;
+    align-items: center;
+
+
+    &__text {
+        color: #202454;
+        font-size: 12px;
+        margin-right: 8px;
+    }
+
+    &__remove {
+        width: 8px;
+        height: 8px;
+        stroke: #7B94B0;
+        cursor: pointer;
+        transition: all .3s;
+
+        &:hover {
+            opacity: .5;
+        }
+    }
+}

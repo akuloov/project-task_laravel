@@ -1,0 +1,13 @@
+.orange-text {
+    color: #E77E42;
+    font-weight: bold;
+    font-size: 12px;
+    border-bottom: 1px dashed #E77E42;
+    transition: all .3s;
+    cursor: pointer;
+    width: max-content;
+    
+    &:hover{
+        opacity: 0.7;
+    }
+}

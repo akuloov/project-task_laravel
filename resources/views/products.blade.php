@@ -2,6 +2,9 @@
 
 
 @section("content")
+
+
+
 <div class="container">
     <div class="products">
         <div class="products-left">
@@ -157,9 +160,135 @@
                 </label>
                 <div class="brand__show-more">+ показать все</div>
             </div>
+            <div class="selection">
+                <div class="selection__top selection__top--margin">
+                    <div class="selection__title">Цена, ₴</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+                <input type="range" min="0" max="10000" value="12" class="input-range">
+            </div>
+            <div class="selection">
+                <div class="selection__top">
+                    <div class="selection__title">Класс</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Премиум</span> <span class="brand__int">(24)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Суперпремиум</span> <span class="brand__int">(36)</span>
+                </label>
+                <label class="brand__check check">
+                    <input type="checkbox" class="check__input">
+                    <span class="check__box">
+                        <svg class="check__img">
+                            <use href="assets/images/icons.svg#icon-check"></use>
+                        </svg>
+                    </span>
+                    <span class="brand__text">Холистик</span> <span class="brand__int">(12)</span>
+                </label>
+            </div>
+            <div class="selection">
+                <div class="selection__top selection__top--margin">
+                    <div class="selection__title">Ингредиенты</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="selection">
+                <div class="selection__top selection__top--margin">
+                    <div class="selection__title">Особенности</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="selection">
+                <div class="selection__top selection__top--margin">
+                    <div class="selection__title">Вес упаковки</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="selection selection--border">
+                <div class="selection__top selection__top--margin">
+                    <div class="selection__title">Порода</div>
+                    <svg class="selection__hide">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+            </div>
+        </div>
+        <div class="products-right">
+            <div class="products-top">
+                <div class="products-top__wrapper">
+                    <div class="products__type">Корм для собак</div>
+                    <div class="products__founded">Найдено 1074 товара</div>
+                </div>
+                <div class="sorting">
+                    <div class="sorting__left">
+                        <div class="sorting__by">Сортировать по</div>
+                        <div class="sorting__selected">Подходящим для питомца</div>
+                    </div>
+                    <svg class="sorting__icon">
+                        <use href="assets/images/icons.svg#icon-vector"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="filters">
+                <div class="filters__filter filter">
+                    <div class="filter__text">Nature's Protection</div>
+                    <svg class="filter__remove">
+                        <use href="assets/images/icons.svg#icon-close"></use>
+                    </svg>
+                </div>
+                <div class="filters__filter filter">
+                    <div class="filter__text">С Автозаказом</div>
+                    <svg class="filter__remove">
+                        <use href="assets/images/icons.svg#icon-close"></use>
+                    </svg>
+                </div>
+                <div class="filters__filter filter">
+                    <div class="filter__text">Суперпремиум</div>
+                    <svg class="filter__remove">
+                        <use href="assets/images/icons.svg#icon-close"></use>
+                    </svg>
+                </div>
+                <div class="orange-text">Очистить фильтры</div>
+            </div>
+            <a href="" class="products__banner-link">
+                <picture class="products__banner-img">
+                    <img src="assets/images/banner.png" alt="">
+                </picture>
+            </a>
+            <div class="products-avatar">
+                <picture class="products-avatar__img">
+                    <source srcset="assets/images/dog-avatar.webp" type="image/webp">
+                    <img class="products-avatar__img--size" src="assets/images/dog-avatar.png" alt="">
+                </picture>
+                Товары с аватаром животного – наиболее подходящие для данного питомца
+            </div>
         </div>
     </div>
+    @include("includes.actions")
+    @include("includes.about-us")
 </div>
-@include("includes.actions")
-@include("includes.about-us")
 @endsection
