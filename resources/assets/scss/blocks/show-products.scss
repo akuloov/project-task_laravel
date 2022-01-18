@@ -1,0 +1,23 @@
+.show-products{
+    display: flex;
+    align-items: center;
+    max-width: 210px;
+    cursor: pointer;
+    transition: all .3s;
+    
+    &:hover{
+        opacity: .7;
+    }
+    
+    &__icon{
+        width: 48px;
+        height: 58px;
+        fill: #E77E42;
+    }
+    
+    &__text{
+        margin-left: 24px;
+        color: #202454;
+        font-size: 20px;
+    }
+}

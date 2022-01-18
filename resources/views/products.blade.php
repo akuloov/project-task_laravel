@@ -286,6 +286,770 @@
                 </picture>
                 Товары с аватаром животного – наиболее подходящие для данного питомца
             </div>
+            <div class="products__items">
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+                <div class="products__container-block">
+                    <a href="" class="block block_bgc1">
+                        <div class="block__text">
+                            <div class="block__second-text">СКИДКА -5%</div>
+                        </div>
+                    </a>
+                    <div class="description">
+                        <a href="" class="description-title__block">
+                            <h1 class="description__title">Schesir Dog Small Adult Lamb сухой монопротеиновый корм для собак малых пород</h1>
+                        </a>
+                        <span class="description-stars">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_orange.png" alt="">
+                            <img class="description-star__item" src="assets/images/star_gray.png" alt="">
+                            <span class="description-star__integer">(12)</span>
+                        </span>
+                        <div class="description__second-price"><span class="description__price_before1">от 260,22</span> <span class="description__second-price_bold">от 206,71 &#8372;</span>
+                        </div>
+                        <div class="description__first-price">
+                            <div class="first-price__img">
+                                <img src="assets/images/Vector.png" alt="">
+                            </div>
+                            <span class="description__first-price_text">от 198,22 &#8372;</span>
+                        </div>
+                        <button class="buy">
+                            <img class="buy__img" src="assets/images/basket.png" alt="">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="products__show-products show-products">
+                <svg class="show-products__icon">
+                    <use href="assets/images/icons.svg#icon-reload2"></use>
+                </svg>
+                <div class="show-products__text">Показать<br>еще 24 товара</div>
+            </div>
+            <div class="products__nav-pages nav-pages">
+                <div class="nav-pages__item nav-pages__item--orange">1</div>
+                <div class="nav-pages__item">2</div>
+                <div class="nav-pages__item">3</div>
+                <div class="nav-pages__item nav-pages__item--white">4</div>
+                <div class="nav-pages__item">5</div>
+                <div class="nav-pages__item">...</div>
+                <div class="nav-pages__item">18</div>
+                <svg class="nav-pages__icon">
+                    <use href="assets/images/icons.svg#icon-vector"></use>
+                </svg>
+            </div>
         </div>
     </div>
     @include("includes.actions")

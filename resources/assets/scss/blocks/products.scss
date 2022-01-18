@@ -37,21 +37,21 @@
             align-items: center;
         }
     }
-    
-    &-avatar{
+
+    &-avatar {
         color: #7B94B0;
         font-size: 14px;
         margin-top: 24px;
         display: flex;
         align-items: center;
-        
-        &__img{
+
+        &__img {
             margin-right: 8px;
             display: flex;
             justify-content: center;
             align-items: center;
-            
-            &--size{
+
+            &--size {
                 width: 24px;
                 height: 24px;
             }
@@ -75,6 +75,39 @@
 
     &__sorting {
         margin-left: auto;
+    }
+
+    &__items {
+        display: flex;
+        margin-top: 33px;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+    }
+
+    &__container-block {
+        max-width: 240px;
+        margin-right: 23px;
+        margin-bottom: 76px;
+
+        &:nth-child(4n) {
+            margin-right: 0;
+
+            @media(max-width: 1420px) {
+                margin-right: 23px;
+            }
+        }
+    }
+    
+    &__show-products{
+        margin: 0 auto;
+    }
+    
+    &__nav-pages{
+        margin-top: 48px;
+        margin-bottom: 120px;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 

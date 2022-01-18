@@ -1,0 +1,35 @@
+.nav-pages {
+    display: flex;
+    align-items: center;
+
+    &__item {
+        width: 32px;
+        height: 32px;
+        padding: 8px 12px;
+        color: #202454;
+        font-weight: bold;
+        font-size: 14px;
+        border-radius: 3px;
+        margin-right: 7px;
+        cursor: pointer;
+
+        &--orange {
+            background: #E77E42;
+            color: #fff;
+        }
+
+        &--white {
+            box-shadow: 0px 2px 8px rgba(32, 36, 84, 0.15);
+            color: #E77E42;
+        }
+    }
+
+    &__icon {
+        cursor: pointer;
+        height: 18px;
+        width: 9px;
+        fill: none;
+        stroke: #202454;
+        margin-left: 25px;
+    }
+}
