@@ -5,11 +5,17 @@
     margin: 10px auto;
     position: absolute;
     z-index: 10000;
-    top: 15%;
+    /*top: 15%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);*/
+    left: 0;
+    right: 0;
     background: #FFFAFA;
-    padding-bottom: 150px;
+    padding-bottom: 200px;
+
+    &:not(:focus-within){
+        display: none;
+    }
 
     &__container {
         padding: 0 30px;
@@ -62,7 +68,7 @@
         justify-content: space-between;
         margin-bottom: 25px;
     }
-    
+
     &__checkbox-submit {
         margin-bottom: 56px;
     }
