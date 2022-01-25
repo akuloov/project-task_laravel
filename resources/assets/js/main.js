@@ -6,6 +6,8 @@ import "./burger-menu.js"
 import "./slider-swiper.js"
 import "./show-more.js"
 import "./lazy-load.js"
+import "./clear-filters.js"
+import "./tabs-slider.js"
 
 
 

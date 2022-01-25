@@ -6,13 +6,13 @@
         <div class="main__menu">
             Лучшие предложения недели
             <span class="main__tabs">
-                <a href="" class="main__tab tab">Собакам</a>
-                <a href="" class="main__tab tab">Кошкам</a>
-                <a href="" class="main__tab tab">Птицам</a>
-                <a href="" class="main__tab tab">Грызунам</a>
+                <a href="#" data-tab="#slider-1" class="main__tab tab tab--active">Собакам</a>
+                <a href="#" data-tab="#slider-2" class="main__tab tab">Кошкам</a>
+                <a href="#" data-tab="#slider-3" class="main__tab tab">Птицам</a>
+                <a href="#" data-tab="#slider-4" class="main__tab tab">Грызунам</a>
             </span>
         </div>
-        <div class="image-slider container">
+        <div id="slider-1" class="image-slider container">
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -195,6 +195,7 @@
                 </div>
             </div>
         </div>
+        
         <div class="blog">
             <div class="blog__search-friend search-friend">
                 <div class="search-friend__subtitle">Объявления о продаже</div>

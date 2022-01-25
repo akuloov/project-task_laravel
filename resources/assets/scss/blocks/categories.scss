@@ -1,5 +1,9 @@
 .popup-menu {
     display: none;
+    position: fixed;
+    z-index: 40;
+    background: #fff;
+    overflow: auto;
 }
 
 .categories {

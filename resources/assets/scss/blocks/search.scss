@@ -15,7 +15,13 @@
 
 .search{
     color: #7B94B0;
-    position: relative;
+    position: fixed;
+    top: 152px;
+    width: 100%;
+    left: 0;
+    background: #fff;
+    z-index: 30;
+    padding-bottom: 72px;
     
     &__text{
         margin-top: 40px;

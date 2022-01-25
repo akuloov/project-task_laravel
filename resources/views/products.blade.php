@@ -272,7 +272,7 @@
                         <use href="assets/images/icons.svg#icon-close"></use>
                     </svg>
                 </div>
-                <div class="orange-text">Очистить фильтры</div>
+                <div class="filters__orange-text orange-text">Очистить фильтры</div>
             </div>
             <a href="" class="products__banner-link">
                 <picture class="products__banner-img">
