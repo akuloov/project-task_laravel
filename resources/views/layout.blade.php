@@ -11,24 +11,25 @@
 </head>
 
 <body>
-    <div class="layout">
-        <div class="wrapper">
-            <div class="layout__body">
-                @include("includes.header")
-                @include("includes.popup-menu")
-                @include("includes.popup-search")
-            </div>
-                @yield("content")
-            @include("includes.registration-dog")
-            @include("includes.footer")
-            @include("includes.mobile-menu")
+<div class="layout">
+    <div class="wrapper">
+        <div class="layout__body">
+            @include("includes.header")
+            @include("includes.popup-menu")
+            @include("includes.popup-search")
         </div>
-        @include("includes.popup-registration")
+        @yield("content")
+        @include("includes.registration-dog")
+        @include("includes.footer")
+        @include("includes.mobile-menu")
     </div>
-    <script type="text/javascript" src="assets/js/lozad.min.js"></script>
-    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="assets/js/main.js"></script>
+    @include("includes.popup-registration")
+</div>
+<script type="text/javascript" src="assets/js/lozad.min.js"></script>
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="assets/js/main.js"></script>
 </body>
 
 </html>

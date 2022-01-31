@@ -1,4 +1,4 @@
-const tabsBtn = document.querySelectorAll('.main__tab');
+/*const tabsBtn = document.querySelectorAll('.main__tab');
 
 tabsBtn.forEach(function(item) {
     item.addEventListener('click', function() {
@@ -10,4 +10,18 @@ tabsBtn.forEach(function(item) {
         
         currentBtn.classList.add('tab--active');
     });
+});*/
+
+$(document).ready(function() {
+    $(".tab").click(function(e) {
+        e.preventDefault();
+        
+        $('.tab').removeClass('tab--active');
+        $('.tab__item').removeClass('tab__item--active');
+        
+        $(this).addClass('tab--active');
+        $($(this).attr('href')).addClass('tab__item--active');
+    });
+    
+    $('.tab:first').click();
 });

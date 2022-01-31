@@ -4,7 +4,8 @@
     margin-top: 48px;
     padding: 0 10px;
     display: none;
-    
+    position: relative;
+
     &-active{
         display: block;
     }
@@ -15,18 +16,22 @@
 
 .search{
     color: #7B94B0;
-    position: fixed;
-    top: 152px;
+    position: absolute;
     width: 100%;
     left: 0;
     background: #fff;
     z-index: 30;
     padding-bottom: 72px;
-    
+    max-width: 1420px;
+
     &__text{
         margin-top: 40px;
         line-height: 16px;
         text-align: center;
+
+        &--unactive{
+            display: none;
+        }
     }
 }
 
@@ -44,16 +49,16 @@
     text-align: center;
     padding-bottom: 17px;
     width: 100%;
-    
-    
 
-    
+
+
+
     &::placeholder{
         color: #7B94B0;
         text-align: center;
         opacity: 0.5;
     }
-    
+
     &__close{
         stroke: #7B94B0;
         cursor: pointer;

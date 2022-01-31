@@ -46,6 +46,8 @@
         align-items: center;
 
         &__img {
+            width: 24px;
+            height: 24px;
             margin-right: 8px;
             display: flex;
             justify-content: center;
@@ -98,11 +100,11 @@
             }
         }
     }
-    
+
     &__show-products{
         margin: 0 auto;
     }
-    
+
     &__nav-pages{
         margin-top: 48px;
         margin-bottom: 120px;

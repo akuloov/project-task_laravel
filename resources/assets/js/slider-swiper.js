@@ -41,4 +41,7 @@ new Swiper('.swiper', {
 
     spaceBetween: 0,
 
+    observer: true,
+    observeParents: true,
+
 });

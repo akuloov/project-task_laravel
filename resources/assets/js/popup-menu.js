@@ -1,7 +1,5 @@
 $('.bb').mouseenter(function () {
     $('.popup-menu').css('display', 'flex');
-    $('body').toggleClass('lock');
-    $('.popup-menu').toggleClass('unlock');
 })
 
 $('.categories__item').click(function () {
@@ -15,5 +13,4 @@ $('.categories__item').click(function () {
 
 $('.popup-menu').mouseleave(function () {
     $(this).css('display', 'none');
-    $('body').css('overflow', 'auto');
 });

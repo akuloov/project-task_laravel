@@ -1,0 +1,38 @@
+.product-search {
+    display: flex;
+    align-items: center;
+
+    &__img {
+        margin-right: 8px;
+    }
+    
+    &__right-block{
+        width: 310px;
+        margin-bottom: 8px;
+    }
+
+    &__name {
+        color: #202454;
+        font-size: 13px;
+        line-height: 15px;
+        transition: all .3s;
+        
+        &:hover{
+            color: #606EEA;
+        }
+    }
+
+    &__new-price {
+        color: #202454;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+    &__old-price {
+        color: #7B94B0;
+        opacity: 0.5;
+        font-size: 13px;
+        text-decoration-line: line-through;
+        margin-right: 4px;
+    }
+}
