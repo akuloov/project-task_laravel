@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <title>Document</title>
-    <link rel="shortcut icon" type="assets/images/x-icon" href="wezom.ico">
+    <link rel="shortcut icon" type="x-icon" href="assets/images/wezom.ico">
     <link rel="stylesheet" href="assets/css/app.css">
 </head>
 
