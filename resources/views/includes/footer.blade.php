@@ -76,7 +76,7 @@
                 <h3 class="block4__title2">Email:<a href="mailto:info@wezom.com.ua" class="block4__email">info@wezom.com.ua</a></h3>
             </div>
             <div class="footer__block5 block5">
-                <button id="scrollTop" onclick="goUp()" class="block5__btn">
+                <button class="block5__btn">
                     <p class="block5__text">Вверх</p>
                     <div class="block5__vector">
                         <svg class="block5__img">

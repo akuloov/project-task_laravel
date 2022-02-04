@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 //КНОПКА ПОКАЗАТЬ ЕЩЁ
 $('.show-more').on('click', function () {
     $('.about-us__item--hidden').css('display', 'block');

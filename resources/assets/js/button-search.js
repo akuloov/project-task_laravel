@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 $('.button-search').click(function () {
     $('.popup-search').css('display', 'block');
 });

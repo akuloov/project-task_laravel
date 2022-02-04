@@ -9,6 +9,10 @@ import "./lazy-load.js"
 import "./clear-filters.js"
 import "./tabs-slider.js"
 import "./type.js"
+import "./selection.js"
+import "./range-slider.js"
+import "./brand.js"
+import "./scrollTop.js"
 
 
 

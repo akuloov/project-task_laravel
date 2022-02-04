@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 $('.bb').mouseenter(function () {
     $('.popup-menu').css('display', 'flex');
 })

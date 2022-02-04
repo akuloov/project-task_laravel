@@ -49,10 +49,13 @@
 }
 
 .block {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 
     &_bgc1 {
-        background-image: url(../images/product1.png);
+
     }
 
     &_bgc2 {
@@ -91,6 +94,9 @@
     font-family: RobotoCondensed, sans-serif;
     font-size: 12px;
     font-weight: 700;
+    position: absolute;
+    top: 16px;
+    left: 16px;
 }
 
 .block__first-text {

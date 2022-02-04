@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 $('.filters__orange-text').click(function(){
     $('.filters').css('display', 'none');
     $(this).css('display', 'none');

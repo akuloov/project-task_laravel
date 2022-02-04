@@ -1,7 +1,7 @@
 .selection {
     padding: 24px 0;
     border-top: 1px solid #E0E0E0;
-    
+
     &--border{
         border-bottom: 1px solid #E0E0E0;
     }
@@ -10,11 +10,10 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-bottom: 24px;
         cursor: pointer;
         border-radius: 7px;
         transition: all .3s;
-        
+
         &--margin{
             margin-bottom: 0;
         }
@@ -23,7 +22,15 @@
             background: #F4F5F8;
         }
     }
-    
+
+    &__bottom{
+        margin-top: 24px;
+
+        &--unactive{
+            display: none;
+        }
+    }
+
     &__title {
         color: #202454;
         font-weight: bold;
@@ -34,8 +41,12 @@
     &__hide {
         width: 18px;
         height: 9px;
-        transform: rotate(-90deg);
+        transform: rotate(270deg);
         fill: none;
         stroke: #202454;
+
+        &--unactive{
+            transform: rotate(90deg);
+        }
     }
 }

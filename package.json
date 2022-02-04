@@ -29,6 +29,10 @@
         "svg-spritemap-webpack-plugin": "^4.4.0"
     },
     "dependencies": {
-        "svg4everybody": "^2.1.9"
+        "jquery": "^3.6.0",
+        "lozad": "^1.16.0",
+        "nouislider": "^15.5.1",
+        "svg4everybody": "^2.1.9",
+        "swiper": "^8.0.2"
     }
 }
